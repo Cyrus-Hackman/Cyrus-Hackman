@@ -1,9 +1,9 @@
-<!-- Typing Intro -->
 <h1 align="center">Hi 👋, I'm Cyrus</h1>
 <h3 align="center">Frontend Developer | React & React Native</h3>
 
+<!-- Typing animation (FIXED alternative) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+cool+things+with+React;Mobile+Apps+with+React+Native;Always+learning+new+tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Building+cool+things+with+React;Mobile+Apps+with+React+Native;Always+learning+new+tech" />
 </p>
 
 ---
@@ -32,30 +32,22 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyrus-Hackman&theme=dark&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyrus-Hackman&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400" height="170"/>
   <img src="https://streak-stats.demolab.com?user=Cyrus-Hackman&theme=dark" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrus-Hackman&theme=dark&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrus-Hackman&theme=dark&layout=compact&cache_seconds=86400" />
 </p>
 
 ---
 
 ## 👀 Profile Views
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Cyrus-Hackman&icon=5&color=12"/>
+  <img src="https://komarev.com/ghpvc/?username=Cyrus-Hackman&color=blue&style=flat" />
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 > I build things that run on both web 🌐 and mobile 📱 using React.
-
----
-
-<!-- Optional: Snake Animation -->
-<!--
-## 🐍 Contribution Snake
-![snake gif](https://github.com/Cyrus-Hackman/Cyrus-Hackman/blob/output/github-contribution-grid-snake.svg)
--->
