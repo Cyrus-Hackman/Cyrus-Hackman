@@ -1,17 +1,61 @@
+<!-- Typing Intro -->
+<h1 align="center">Hi 👋, I'm Cyrus</h1>
+<h3 align="center">Frontend Developer | React & React Native</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+cool+things+with+React;Mobile+Apps+with+React+Native;Always+learning+new+tech" />
+</p>
+
+---
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/cyrus.apentenghack.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apentengcyrus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cyrus-apenteng) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cyrusapenteng11@gmail.com) 
+<p align="center">
+  <a href="https://www.facebook.com/cyrus.apentenghack.1"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/apentengcyrus"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/cyrus-apenteng"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:cyrusapenteng11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=Cyrus-Hackman&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=Cyrus-Hackman&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrus-Hackman&theme=dark&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=Cyrus-Hackman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack:
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/react_native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyrus-Hackman&theme=dark&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Cyrus-Hackman&theme=dark" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrus-Hackman&theme=dark&layout=compact" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Cyrus-Hackman&icon=5&color=12"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> I build things that run on both web 🌐 and mobile 📱 using React.
+
+---
+
+<!-- Optional: Snake Animation -->
+<!--
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Cyrus-Hackman/Cyrus-Hackman/blob/output/github-contribution-grid-snake.svg)
+-->
