@@ -32,12 +32,12 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyrus-Hackman&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Cyrus-Hackman&theme=dark&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cyrus-Hackman&theme=dark&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Cyrus-Hackman&theme=dark" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrus-Hackman&theme=dark&layout=compact&cache_seconds=86400" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cyrus-Hackman&theme=dark&layout=compact" />
 </p>
 ---
 
