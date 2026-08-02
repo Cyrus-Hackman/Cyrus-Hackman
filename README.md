@@ -1,6 +1,6 @@
-the streak is broken
+
 <h1 align="center">Hi 👋, I'm Cyrus</h1>
-<h3 align="center">Frontend Developer | React & React Native</h3>
+<h3 align="center">FullStack Developer | React & React Native</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Building+cool+things+with+React;Mobile+Apps+with+React+Native;Always+learning+new+tech" />
