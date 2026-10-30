@@ -48,12 +48,13 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyrus-Hackman&theme=dark&include_all_commits=true" height="170"/>
+  <img src="https://raw.githubusercontent.com/Cyrus-Hackman/Cyrus-Hackman/main/profile-summary-card-output/github_dark/3-stats.svg" height="170"/>
   <img src="https://streak-stats.demolab.com?user=Cyrus-Hackman&theme=dark" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyrus-Hackman&theme=dark&layout=compact" />
+  <img src="https://raw.githubusercontent.com/Cyrus-Hackman/Cyrus-Hackman/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="170"/>
+  <img src="https://raw.githubusercontent.com/Cyrus-Hackman/Cyrus-Hackman/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="170"/>
 </p>
 
 ---
