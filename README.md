@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="./profile/stats.svg" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Cyrus-Hackman&theme=dark" height="170"/>
+  <img src="./profile/streak.svg" height="170"/>
 </p>
 
 <p align="center">
