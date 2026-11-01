@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195">
+<rect width="495" height="195" rx="4.5" fill="#151515"/>
+<g font-family="Segoe UI, Ubuntu, sans-serif" text-anchor="middle">
+  <text x="82" y="85" font-size="28" font-weight="700" fill="#fff">603</text>
+  <text x="82" y="115" font-size="14" fill="#FB8C00">Total Contributions</text>
+  <circle cx="247" cy="80" r="40" fill="none" stroke="#FB8C00" stroke-width="5"/>
+  <text x="247" y="90" font-size="28" font-weight="700" fill="#fff">8</text>
+  <text x="247" y="148" font-size="14" font-weight="700" fill="#FB8C00">Current Streak</text>
+  <text x="247" y="170" font-size="12" fill="#9e9e9e">Oct 25 - Nov 01</text>
+  <text x="412" y="85" font-size="28" font-weight="700" fill="#fff">8</text>
+  <text x="412" y="115" font-size="14" fill="#FB8C00">Longest Streak</text>
+</g></svg>
